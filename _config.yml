@@ -67,7 +67,6 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
-  - fse26-rca
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
