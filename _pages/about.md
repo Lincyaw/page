@@ -207,7 +207,7 @@ I warmly welcome collaborations and discussions in this domain (DevOps, MLOps, L
 # 📝 Publications {#publications} 
 
 - `ISSTA'26` [Gleaner: A Semantically-Rich and Efficient Online Sampler for Microservice Diagnostics](https://arxiv.org/abs/2604.16810), Yifan Yang, **Aoyang Fang**, Songhan Zhang, Pinjia He
-- `FSE'26` [Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark](https://www.arxiv.org/abs/2510.04711), **Aoyang Fang**, Songhan Zhang, Yifan Yang, Haotong Wu, Junjielong Xu, Xuyang Wang, Rui Wang, Manyi Wang, Qisheng Lu, Pinjia He
+- `FSE'26` [Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark](https://www.arxiv.org/abs/2510.04711), **Aoyang Fang**, Songhan Zhang, Yifan Yang, Haotong Wu, Junjielong Xu, Xuyang Wang, Rui Wang, Manyi Wang, Qisheng Lu, Pinjia He <a href="/fse26-rca/" class="badge">Slides</a>
 - `Arxiv` [DynaCausal: Dynamic Causality-Aware Root Cause Analysis for Distributed Microservices](https://arxiv.org/abs/2510.22613), Songhan Zhang, **Aoyang Fang**, Yifan Yang, Ruiyi Cheng, Xiaoying Tang, Pinjia He
 - `Arxiv` [A Goal-Driven Survey on Root Cause Analysis](https://arxiv.org/abs/2510.19593), **Aoyang Fang**, Haowen Yang, Haoze Dong, Qisheng Lu, Junjielong Xu, Pinjia He
 - `ASE'25` [Triangle: Empowering Incident Triage with Multi-Agent](/assets/publications/ase25/ASE_triangle.pdf), Zhaoyang Yu, **Aoyang Fang** (co-first author), Minghua Ma, Jaskaran Singh Walia, Chaoyun Zhang, Ze Li, Murali Chintalapati, Xuchao Zhang, Rujia Wang, Chetan Bansal, Saravan Rajmohan, Qingwei Lin, Shenglin Zhang, Dan Pei, Pinjia He
