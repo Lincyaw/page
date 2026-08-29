@@ -193,6 +193,7 @@ I warmly welcome collaborations and discussions in this domain (DevOps, MLOps, L
 </div> -->
 
 # 🔥 News {#news}
+- *2026.06*: &nbsp;🎉🎉 Our paper "OpenRCA 2.0: From Outcome Labels to Causal Process Supervision" has preprint available on Arxiv!
 - *2026.04*: &nbsp;🎉🎉 Congrats to Yifan! Our paper "Gleaner: A Semantically-Rich and Efficient Online Sampler for Microservice Diagnostics" has been directly accepted by ISSTA 2026 (90 direct accepts out of 888 papers after desk rejects). I was fortunate to primarily lead Yifan on this work.
 - *2025.12*: &nbsp;🎉🎉 Our paper "Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark" (arxiv version: "An Empirical Study of ...") has been directly accepted by FSE 2026 (**Direct Accept**, 87/920, 9.5%)!
 - *2025.10*: &nbsp;🎉🎉 Our paper "DynaCausal: Dynamic Causality-Aware Root Cause Analysis for Distributed Microservices" has preprint available on Arxiv!
@@ -206,8 +207,9 @@ I warmly welcome collaborations and discussions in this domain (DevOps, MLOps, L
 
 # 📝 Publications {#publications} 
 
+- `Arxiv` [OpenRCA 2.0: From Outcome Labels to Causal Process Supervision](https://arxiv.org/abs/2606.27154), **Aoyang Fang**, Yifan Yang, Jin'ao Shang, Qisheng Lu, Junjielong Xu, Rui Wang, Songhan Zhang, Yuzhong Zhang, Boxi Yu, Pinjia He
 - `ISSTA'26` [Gleaner: A Semantically-Rich and Efficient Online Sampler for Microservice Diagnostics](https://arxiv.org/abs/2604.16810), Yifan Yang, **Aoyang Fang**, Songhan Zhang, Pinjia He
-- `FSE'26` [Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark](https://www.arxiv.org/abs/2510.04711), **Aoyang Fang**, Songhan Zhang, Yifan Yang, Haotong Wu, Junjielong Xu, Xuyang Wang, Rui Wang, Manyi Wang, Qisheng Lu, Pinjia He <a href="/fse26-rca/" class="badge">Slides</a>
+- `FSE'26` [Rethinking the Evaluation of Microservice RCA with a Fault Propagation-Aware Benchmark](https://dl.acm.org/doi/10.1145/3797100), **Aoyang Fang**, Songhan Zhang, Yifan Yang, Haotong Wu, Junjielong Xu, Xuyang Wang, Rui Wang, Manyi Wang, Qisheng Lu, Pinjia He. *Proc. ACM Softw. Eng.* 3(FSE), 1605–1627 <a href="https://www.arxiv.org/abs/2510.04711" class="badge">arXiv</a> <a href="/fse26-rca/" class="badge">Slides</a>
 - `Arxiv` [DynaCausal: Dynamic Causality-Aware Root Cause Analysis for Distributed Microservices](https://arxiv.org/abs/2510.22613), Songhan Zhang, **Aoyang Fang**, Yifan Yang, Ruiyi Cheng, Xiaoying Tang, Pinjia He
 - `Arxiv` [A Goal-Driven Survey on Root Cause Analysis](https://arxiv.org/abs/2510.19593), **Aoyang Fang**, Haowen Yang, Haoze Dong, Qisheng Lu, Junjielong Xu, Pinjia He
 - `ASE'25` [Triangle: Empowering Incident Triage with Multi-Agent](/assets/publications/ase25/ASE_triangle.pdf), Zhaoyang Yu, **Aoyang Fang** (co-first author), Minghua Ma, Jaskaran Singh Walia, Chaoyun Zhang, Ze Li, Murali Chintalapati, Xuchao Zhang, Rujia Wang, Chetan Bansal, Saravan Rajmohan, Qingwei Lin, Shenglin Zhang, Dan Pei, Pinjia He
