@@ -227,7 +227,7 @@ I warmly welcome collaborations and discussions in this domain (DevOps, MLOps, L
 - *2018.09 - 2022.06*, BSc in Computer Science, Harbin Institute of Technology(Shenzhen) 
 
 # 💻 Academic Positions and Internships {#academic-positions-and-internships}
-- *2025.08 - Present*, Research Intern, [ByteDance Byte Brain](https://www.bytedance.com/)
+- *2025.08 - 2026.08*, Research Intern, [ByteDance Byte Brain](https://www.bytedance.com/)
 - *2025.10 - 2025.12*, TOSEM'24 Reviewer
 - *2025.01 - 2025.05*, Research Intern, [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 - *2024.11 - 2025.04*, USENIX Security '25 Cycle-1 Artifact Reviewer
