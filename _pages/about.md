@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated with a bachelor's degree from Harbin Institute of Technology (Shenzhen) and am currently a PhD student in School of Data Science at The Chinese University of Hong Kong, Shenzhen (CUHK(SZ)) and fortunate to be advised by [Prof. Pinjia He](https://pinjiahe.github.io/).
+I graduated with a bachelor's degree from Harbin Institute of Technology (Shenzhen) and am currently a PhD candidate in School of Data Science at The Chinese University of Hong Kong, Shenzhen (CUHK(SZ)) and fortunate to be advised by [Prof. Pinjia He](https://pinjiahe.github.io/).
 
 My research centers on software reliability, security and observability through innovative testing and monitoring methodologies.
 
